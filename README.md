@@ -1,6 +1,6 @@
 
 
-## ──「SYN USERBOT」──
+## **──「SYN USERBOT」──**
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xsyn1100/Syn-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/xsyn1100/Syn-Userbot/graphs/commit-activity)
@@ -64,7 +64,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 </details>
 
 
-<h3 align="center">**Klik Tombol di Bawah ini untuk Deploy di Heroku** :</h3>
+<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku :</h3>
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/xsyn1100/Syn-Deploy/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=flat&logo=heroku" width="250" height="40.00" /></a></p>
 
@@ -75,9 +75,9 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <a href="https://t.me/synxsupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Inspiration & Credits
-* [TeamUltroid](https://github.com/github.com/Ultroid) : UltroidUserbot
-* [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
-* [Doni](https://github.com/xsyn1100/Syn-Userbot) : Syn-Userbot
+* [**TeamUltroid**](https://github.com/github.com/Ultroid) : **UltroidUserbot**
+* [**Risman**](https://github.com/mrismanaziz/Man-Userbot) :  **Man-Userbot**
+* [**Doni**](https://github.com/xsyn1100/Syn-Userbot) : **Syn-Userbot**
 
 
 
