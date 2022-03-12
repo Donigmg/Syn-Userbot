@@ -74,16 +74,13 @@ Follow Channel [here](https://t.me/synxupdate) untuk info Update bot dan Gabung 
 
 #### Special Thanks To [Everyone](https://github.com/xsyn1100/Syn-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
 
--  [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
-
--  [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
-
--  [Doni](https://github.com/xsyn1100/Syn-Userbot) : Syn-Userbot
+- [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
+- [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
+- [Doni](https://github.com/xsyn1100/Syn-Userbot) : Syn-Userbot
 
 ## © Credits
--  [Doni](https://github.com/xsyn1100) for [Syn-Userbot](https://github.com/xsyn1100/Syn-Userbot)
-
--  [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
+- [Doni](https://github.com/xsyn1100) for [Syn-Userbot](https://github.com/xsyn1100/Syn-Userbot)
+- [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
 
 
 
