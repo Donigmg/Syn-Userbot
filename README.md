@@ -2,6 +2,12 @@
 
 ## **──「SYN USERBOT」──**
 
+<p align="center">
+  <img src="https://telegra.ph/file/97d841bb7bd5e5969d527.jpg">
+</p>
+
+
+
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xsyn1100/Syn-Userbot)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/xsyn1100/Syn-Userbot/graphs/commit-activity)
 [![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/xsyn1100/Syn-Userbot)
