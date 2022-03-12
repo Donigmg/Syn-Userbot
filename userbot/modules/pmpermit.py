@@ -3,7 +3,7 @@
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
-# Recode by @mrismanaziz
+# Recode by @mrismanaziz  @shshtst
 # @SharingUserbot
 """ Userbot module for keeping control who PM you. """
 
@@ -27,7 +27,7 @@ DEF_UNAPPROVED_MSG = (
     "• Tunggu sampai saya menyetujui PM anda.\n"
     "• Jangan Spam Chat atau anda akan otomatis diblokir.\n"
     "╔════════════════════╗\n"
-    "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 -𝗨𝘀𝗲𝗿𝗕𝗼𝘁\n"
+    "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 Syn-𝗨𝘀𝗲𝗿𝗕𝗼𝘁\n"
     "╚════════════════════╝\n"
 )
 
