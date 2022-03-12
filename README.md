@@ -6,7 +6,7 @@
 
 
 <h6 align="center">
-  <b>⚡ **Syn Userbot** Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b>⚡ Syn Userbot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
 </h6>
 
 <p align="center">
