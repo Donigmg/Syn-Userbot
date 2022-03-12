@@ -1,5 +1,3 @@
-
-
 ## **──「SYN USERBOT」──**
 
 <p align="center">
@@ -7,19 +5,36 @@
 </p>
 
 
+<h6 align="center">
+  <b>⚡ **Syn Userbot** Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+</h6>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/xsyn1100/Syn-Userbot)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green)](https://GitHub.com/xsyn1100/Syn-Userbot/graphs/commit-activity)
-[![CodeFactor](https://www.codefactor.io/repository/github/mrismanaziz/Man-Userbot/badge)](https://www.codefactor.io/repository/github/xsyn1100/Syn-Userbot)
-[![CodeQuality](https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy)](https://app.codacy.com/gh/xsyn1100/Syn-Userbot/dashboard)
-[![Docker Pulls](https://img.shields.io/docker/pulls/mrismanaziz/man-userbot)](https://hub.docker.com/r/mrismanaziz/man-userbot/tags)
-[![GitHub Forks](https://img.shields.io/github/forks/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/xsyn1100/Syn-Userbot/fork)
-[![GitHub Stars](https://img.shields.io/github/stars/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/xsyn1100/Syn-Userbot/stargazers)
+<p align="center">
+<a href="https://github.com/xsyn1100/Syn-Userbot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-OS/LEGENDBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/xsyn1100/Syn-Userbot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGEND-OS/LEGENDBOT?color=success" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGEND-OS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+</p>
+<p align="center">
+<a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGEND-OS/LEGENDBOT" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+</p>
+<p align="center">
+<a href="https://t.me/synxsupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://github.com/xsyn1100/Syn-Userbot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
+</p>
+
+------
+## Info Bot
+<p align="left">
+    <a href="https://github.com/xsyn1100/Syn-Userbot/network/members"><img src="https://img.shields.io/github/forks/xsyn1100/Syn-Userbot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/xsyn1100/Syn-Userbot/stargazers"><img src="https://img.shields.io/github/stars/xsyn1100/Syn-Userbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/xsyn1100/Syn-Userbot"></a><p align="left"><a href="https://github.com/xsyn1100/Syn-Userbot?"></a>
 
 **Syn-Userbot** adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
-Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
-Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
 
 ## Disclaimer
 
