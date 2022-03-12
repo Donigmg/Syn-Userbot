@@ -5,7 +5,8 @@
 #
 # inline credit @keselekpermen69
 # Recode by @mrismanaziz
-# t.me/SharingUserbot
+# Recode by @shshtat
+# t.me/shshtst
 #
 """ Userbot initialization. """
 
@@ -158,7 +159,7 @@ GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
 
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
-    "UPSTREAM_REPO_URL", "https://github.com/mrismanaziz/Man-Userbot.git"
+    "UPSTREAM_REPO_URL", "https://github.com/xsyn1100/Syn-Userbot.git"
 )
 
 # Custom Name Sticker Pack
