@@ -68,19 +68,15 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/xsyn1100/Syn-Userbot/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-## Updates & Support
+## Support 🚑
+<a href="https://t.me/synxupdate"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/synxsupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-Follow Channel [here](https://t.me/synxupdate) untuk info Update bot dan Gabung Group [Here](https://t.me/synxsupport) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
+## Inspiration & Credits
+* [TeamUltroid](https://github.com/github.com/Ultroid) : UltroidUserbot
+* [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
+* [Doni](https://github.com/xsyn1100/Syn-Userbot) : Syn-Userbot
 
-#### Special Thanks To [Everyone](https://github.com/xsyn1100/Syn-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
-
-- [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
-- [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
-- [Doni](https://github.com/xsyn1100/Syn-Userbot) : Syn-Userbot
-
-## © Credits
-- [Doni](https://github.com/xsyn1100) for [Syn-Userbot](https://github.com/xsyn1100/Syn-Userbot)
-- [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
 
 
 
