@@ -60,29 +60,26 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 </details>
 
-<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://risman.vercel.app/deploy.html"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+## <p align="center">DEPLOY TO HEROKU</p>
+
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=U2t5enUvc2t5enUtdXNlcmJvdCBTa3l6dXUtVXNlcmJvdA"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 
 ## Updates & Support
 
 Follow Channel [here](https://t.me/synxupdate) untuk info Update bot dan Gabung Group [Here](https://t.me/synxsupport) untuk untuk diskusi, pelaporan bug, dan bantuan tentang Man-Userbot.
 
-#### Special Thanks To [Everyone](https://github.com/mrismanaziz/Man-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
--  [AdekMaulana](https://github.com/adekmaulana) : ProjectBish
--  [RaphielGang](https://github.com/RaphielGang) : Paperplane
+#### Special Thanks To [Everyone](https://github.com/xsyn1100/Syn-Userbot/graphs/contributors) Who Has Helped Make This Userbot Awesome!
+
 -  [TeamUltroid](https://github.com/TeamUltroid/Ultroid) :  UltroidUserbot
--  [BianSepang](https://github.com/BianSepang/WeebProject) : WeebProject
--  [Sandy1709](https://github.com/sandy1709/catuserbot) : CatUserbot
--  [X_ImFine](https://github.com/ximfine) :  XBot-REMIX
+
 -  [Risman](https://github.com/mrismanaziz/Man-Userbot) :  Man-Userbot
--  [Koala](https://github.com/ManusiaRakitan/Kampang-Bot) : Kampang-Bot
--  [Alvin](https://github.com/Zora24/Lord-Userbot) : Lord-Userbot
+
 -  [Doni](https://github.com/xsyn1100/Syn-Userbot) : Syn-Userbot
 
 ## © Credits
 -  [Doni](https://github.com/xsyn1100) for [Syn-Userbot](https://github.com/xsyn1100/Syn-Userbot)
--  [Laky-64](https://github.com/Laky-64) for [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
--  [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
+
 -  [Risman](https://github.com/mrismanaziz) for [Man-Userbot](https://github.com/mrismanaziz/Man-Userbot)
 
 
