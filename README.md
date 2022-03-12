@@ -10,7 +10,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/xsyn1100/Syn-Userbot/fork)
 [![GitHub Stars](https://img.shields.io/github/stars/mrismanaziz/Man-Userbot?&logo=github)](https://github.com/xsyn1100/Syn-Userbot/stargazers)
 
-Syn-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+**Syn-Userbot** adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
@@ -74,13 +74,16 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 <a href="https://t.me/synxupdate"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/synxsupport"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-## Inspiration & Credits
-* [**TeamUltroid**](https://github.com/github.com/Ultroid) : **UltroidUserbot**
-* [**Risman**](https://github.com/mrismanaziz/Man-Userbot) :  **Man-Userbot**
-* [**Doni**](https://github.com/xsyn1100/Syn-Userbot) : **Syn-Userbot**
+<details>
+<summary><b>Credit</b></summary>
+<br>
+
+- [**TeamUltroid**](https://github.com/github.com/Ultroid) : **UltroidUserbot**
+- [**Risman**](https://github.com/mrismanaziz/Man-Userbot) :  **Man-Userbot**
+- [**Doni**](https://github.com/xsyn1100/Syn-Userbot) : **Syn-Userbot**
 
 
-
+</details>
 
 ## License
 Licensed under [Raphielscape Public License](https://github.com/mrismanaziz/Man-Userbot/blob/Man-Userbot/LICENSE) - Version 1.d, February 2020
