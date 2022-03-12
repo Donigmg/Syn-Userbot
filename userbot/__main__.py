@@ -1,13 +1,4 @@
-# Copyright (C) 2019 The Raphielscape Company LLC.
-#
-# Licensed under the Raphielscape Public License, Version 1.c (the "License");
-# you may not use this file except in compliance with the License.
-#
-# Copyright (C) 2021 TeamUltroid for autobot
-# Recode by @mrismanaziz
-# FROM Man-Userbot <https://github.com/mrismanaziz/Man-Userbot>
-# t.me/SharingUserbot & t.me/Lunatic0de
-#
+
 """ Userbot start point """
 
 
@@ -35,7 +26,7 @@ try:
     LOGS.info(f"Python Version - {python_version()}")
     LOGS.info(f"Telethon Version - {version.__version__}")
     LOGS.info(f"PyTgCalls Version - {pytgcalls.__version__}")
-    LOGS.info(f"Man-Userbot Version - {ubotversion} [🔥 BERHASIL DIAKTIFKAN! 🔥]")
+    LOGS.info(f"Syn-Userbot Version - {ubotversion} [ 💡 BERHASIL DI AKTIFKAN!💡]")
 except (ConnectionError, KeyboardInterrupt, NotImplementedError, SystemExit):
     pass
 except BaseException as e:
