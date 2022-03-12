@@ -1,9 +1,9 @@
-# Man - UserBot
-# Copyright (c) 2022 Man-Userbot
-# Credits: @mrismanaziz || https://github.com/mrismanaziz
+# Syn - UserBot
+# Copyright (c) 2022 Syn-Userbot
+# Credits: @mrismanaziz || https://github.com/xsyn1100
 #
-# This file is a part of < https://github.com/mrismanaziz/Man-Userbot/ >
-# t.me/SharingUserbot & t.me/Lunatic0de
+# This file is a part of < https://github.com/xsyn1100/Syn-Userbot/ >
+# t.me/synxsupport & t.me/syncupdate
 
 from telethon.tl.functions.channels import InviteToChannelRequest
 
@@ -14,7 +14,7 @@ from userbot import CMD_HANDLER as cmd
 from userbot import MAN2, MAN3, MAN4, MAN5, bot, branch
 
 MSG_ON = """
-🔥 **Man-Userbot Berhasil Di Aktifkan**
+⚡ **Syn-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}@{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
