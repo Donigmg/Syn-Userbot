@@ -88,8 +88,8 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku :</h3>
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/xsyn1100/Syn-Userbot/"><img src="
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=eHN5bjExMDAvU3luLVVzZXJib3QgTWFuLVVzZXJib3Q"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-yellow?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/xsyn1100/Syn-Userbot/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="250""/</a>  
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=eHN5bjExMDAvU3luLVVzZXJib3QgTWFuLVVzZXJib3Q"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-purple?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 ## Support 
 <a href="https://t.me/synxupdate"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
