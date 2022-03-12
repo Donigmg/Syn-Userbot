@@ -1,4 +1,4 @@
-## **──「SYN USERBOT」──**
+## ──「**SYN USERBOT**」──
 
 <p align="center">
   <img src="https://telegra.ph/file/97d841bb7bd5e5969d527.jpg">
