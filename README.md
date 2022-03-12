@@ -62,7 +62,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan userbot ini dengan bijak
 
 ## <p align="center">DEPLOY TO HEROKU</p>
 
-<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=U2t5enUvc2t5enUtdXNlcmJvdCBTa3l6dXUtVXNlcmJvdA"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/xsyn1100/Syn-Userbot/"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Updates & Support
